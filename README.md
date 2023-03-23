@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshots
 
-## Mobile Version
+#### Mobile Version
 ![workit-landing-page-mobile](https://user-images.githubusercontent.com/103507827/227188761-c828fe47-1ef6-41da-9188-8d7dd69259b2.png)
 
-## Tablet Version
+#### Tablet Version
 ![workit-landing-page-tablet](https://user-images.githubusercontent.com/103507827/227188764-05632d8e-9317-4dd4-a4c0-b64003cc6ddd.png)
 
-## Desktop Version
+#### Desktop Version
 ![workit-landing-page-desktop](https://user-images.githubusercontent.com/103507827/227188753-50196987-39cd-4d40-b68e-6a0e9d9196fb.png)
 
 
