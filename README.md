@@ -1,4 +1,4 @@
-# Workit-Landing-Page-HTML-SCSS
+# Hello Devs!
 This is my first repository ever! I'm sure there are a lot of mistakes and I'm open to constructive feedback. It's also my first time using SASS so I probably mucked up the file organization.
 
 # Frontend Mentor - Workit landing page solution
