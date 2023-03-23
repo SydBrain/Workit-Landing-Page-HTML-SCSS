@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://sydbrain.github.io/Workit-Landing-Page-HTML-SCSS/)
+- [Solution](https://your-solution-url.com)
+- [Live Site](https://sydbrain.github.io/Workit-Landing-Page-HTML-SCSS/)
 
 ### Built with
 
