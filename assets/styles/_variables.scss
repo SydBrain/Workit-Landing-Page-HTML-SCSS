@@ -1,0 +1,27 @@
+/* Color Styles */
+
+$primary800 : rgb(36, 5, 62);
+$primary400 : rgb(88, 77, 98);
+$primary200 : rgb(253, 250, 255);
+$secondary : rgb(255, 255, 255);
+$accent : rgb(68, 255, 161);
+
+/* Typography Styles */
+
+// Desktop
+$heading-l-desktop : 80px;
+$heading-m-desktop : 56px;
+$heading-s-desktop : 32px;
+$body-desktop: 18px;
+
+// Tablet
+$heading-l-tablet : 60px;
+$heading-m-tablet : 48px;
+$heading-s-tablet : 28px;
+
+// Mobile
+$heading-l-mobile : 50px;
+$heading-m-mobile : 32px;
+$heading-s-mobile : 28px;
+
+$body-responsive : 16px;
