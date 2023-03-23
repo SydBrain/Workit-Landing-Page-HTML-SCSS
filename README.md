@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/mobile-first-workit-landing-page-using-html-and-scss-AoXr5cHrHk)
 - [Live Site](https://sydbrain.github.io/Workit-Landing-Page-HTML-SCSS/)
 
 ### Built with
